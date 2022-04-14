@@ -1,0 +1,10 @@
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.Form1.resources
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.Properties.Resources.resources
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.csproj.GenerateResource.Cache
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\bin\Debug\myPPC3.exe
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\bin\Debug\myPPC3.pdb
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.exe
+D:\myPPC3.exe
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.PasswordWindow.resources
+C:\Users\RVS\Documents\Visual Studio 2005\Projects\myPPC3\myPPC3\obj\Debug\myPPC3.ArchiveCPC.resources
